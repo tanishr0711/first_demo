@@ -1,16 +1,16 @@
-# FOR
+FOR
 
 Millionares,Organisations, governments
 
-#BENEFITS
+BENEFITS
 
 Entertainment, more practical way of war or a more customisable homely robot
 
 
-#NAME
+NAME
 
 ANDROIDS/CYBORGS/AUTOBOTS
 
-#UNLIKE
+UNLIKE
 
 Basic robots/humans our product is more customizable, state of the art quality and smarter.
